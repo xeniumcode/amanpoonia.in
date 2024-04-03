@@ -36,8 +36,8 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/aman-poonia/"
-    - name: email
-      url: "contact@amanpoonia.in"
+    - name: telegram
+      url: "https://t.me/iamxenium"
     - name: github
       url: "https://github.com/xeniumcode"
 
