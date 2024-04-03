@@ -51,4 +51,4 @@ menu:
     - identifier: about
       name: about
       url: /about/
-      weight: 20
+      weight: 5
