@@ -1,0 +1,54 @@
+baseURL: "https://amanpoonia.in/"
+title: Aman Poonia
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Aman Poonia"
+  description: "Internet home of Aman Poonia"
+  keywords: [Blog, Linux, Arch, PaperMod]
+  images: ["https://avatars.githubusercontent.com/u/76689618"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowRssButtonInSectionTermList: true
+
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true 
+    title: Aman Poonia
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "Always tinkring with stuff's"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/amanpoonia/"
+    - name: email
+      url: "contact@amanpoonia.in"
+    - name: github
+      url: "https://github.com/xeniumcode"
+
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
