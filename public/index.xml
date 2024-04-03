@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aman Poonia</title>
+    <link>https://amanpoonia.in/</link>
+    <description>Recent content on Aman Poonia</description>
+    <image>
+      <title>Aman Poonia</title>
+      <url>https://avatars.githubusercontent.com/u/76689618</url>
+      <link>https://avatars.githubusercontent.com/u/76689618</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://amanpoonia.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome youtuber</title>
+      <link>https://amanpoonia.in/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://amanpoonia.in/posts/my-first-post/</guid>
+      <description>This is a list of awesome of youtuber which are awesome but are not well known
+Low Level Learning Sebastian Lague Ben Eater </description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://amanpoonia.in/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amanpoonia.in/about/</guid>
+      <description>Hello, I’m Aman Poonia. I’m from Haryana, India
+This website is personal blog which I use to document my learning journey and share my work with the world.
+You can learn more about my professional experience on my LinkedIn profile.
+I am interested in low level stuff in computer, cyber security and operating system. If you have any questions or suggestions, please do not hesitate to get in touch with me on email contact[at]amanpoonia[dot]in</description>
+    </item>
+  </channel>
+</rss>
