@@ -27,6 +27,7 @@ params:
   profileMode:
     enabled: true 
     title: Aman Poonia
+    Content: "Always tinkring with stuff's"
 
   # home-info mode
   homeInfoParams:
@@ -35,7 +36,7 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://linkedin.com/amanpoonia/"
+      url: "https://linkedin.com/aman-poonia/"
     - name: email
       url: "contact@amanpoonia.in"
     - name: github
