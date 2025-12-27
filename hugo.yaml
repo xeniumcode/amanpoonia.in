@@ -1,9 +1,11 @@
 baseURL: "https://amanpoonia.in/"
 title: Aman Poonia
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
+
+pagination:
+  pagerSize: 5
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -12,7 +14,7 @@ params:
   keywords: [Blog, Linux, Arch, PaperMod]
   images: ["https://avatars.githubusercontent.com/u/76689618"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowRssButtonInSectionTermList: true
@@ -20,7 +22,6 @@ params:
 
   label:
     text: "Aman Poonia"
-    icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode

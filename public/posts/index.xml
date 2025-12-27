@@ -9,7 +9,7 @@
       <url>https://avatars.githubusercontent.com/u/76689618</url>
       <link>https://avatars.githubusercontent.com/u/76689618</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.153.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="https://amanpoonia.in/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,12 @@
       <link>https://amanpoonia.in/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://amanpoonia.in/posts/my-first-post/</guid>
-      <description>This is a list of awesome of youtuber which are awesome but are not well known
-Low Level Learning Sebastian Lague Ben Eater </description>
+      <description>&lt;p&gt;This is a list of awesome of youtuber which are awesome but are not well known&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/LowLevelLearning&#34;&gt;Low Level Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@SebastianLague&#34;&gt;Sebastian Lague&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@BenEater&#34;&gt;Ben Eater&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

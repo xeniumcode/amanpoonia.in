@@ -9,7 +9,7 @@
       <url>https://avatars.githubusercontent.com/u/76689618</url>
       <link>https://avatars.githubusercontent.com/u/76689618</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.153.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="https://amanpoonia.in/index.xml" rel="self" type="application/rss+xml" />
@@ -18,18 +18,22 @@
       <link>https://amanpoonia.in/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://amanpoonia.in/posts/my-first-post/</guid>
-      <description>This is a list of awesome of youtuber which are awesome but are not well known
-Low Level Learning Sebastian Lague Ben Eater </description>
+      <description>&lt;p&gt;This is a list of awesome of youtuber which are awesome but are not well known&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/LowLevelLearning&#34;&gt;Low Level Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@SebastianLague&#34;&gt;Sebastian Lague&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@BenEater&#34;&gt;Ben Eater&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://amanpoonia.in/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://amanpoonia.in/about/</guid>
-      <description>Hello, I’m Aman Poonia. I’m from Haryana, India
-This website is personal blog which I use to document my learning journey and share my work with the world.
-You can learn more about my professional experience on my LinkedIn profile.
-I am interested in low level stuff in computer, cyber security and operating system. If you have any questions or suggestions, please do not hesitate to get in touch with me on email contact[at]amanpoonia[dot]in</description>
+      <description>&lt;p&gt;Hello, I’m Aman Poonia. I’m from Haryana, India&lt;/p&gt;
+&lt;p&gt;This website is personal blog which I use to document my learning journey and share my work with the world.&lt;/p&gt;
+&lt;p&gt;You can learn more about my professional experience on my LinkedIn profile.&lt;/p&gt;
+&lt;p&gt;I am interested in low level stuff in computer, cyber security and  operating system. If you have any questions or suggestions, please do not hesitate to get in touch with me on email contact[at]amanpoonia[dot]in&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
