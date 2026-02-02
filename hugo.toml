@@ -1,0 +1,44 @@
+baseURL = 'https://amanpoonia.in'
+languageCode = 'en-GB'
+title = 'Aman Poonia'
+theme = 'dark-forest'
+
+[params]
+  author = 'Aman Poonia'
+  description = 'Recording things for the world to see.'
+  homeTitle = 'Hello (●＾o＾●)'
+  showRecentPosts = true
+  recentPostsCount = 5
+
+[[params.social]]
+  name = 'GitHub'
+  url = 'https://github.com/xeniumcode'
+
+[[params.social]]
+  name = 'LinkedIn'
+  url = 'https://linkedin.com/in/aman-poonia'
+
+[[params.social]]
+  name = 'Email'
+  url = 'mailto:contact@amanpooni.in'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 10
+  
+  [[menu.main]]
+    name = 'Blog'
+    url = '/posts/'
+    weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = 'application/rss+xml'
+    baseName = 'rss'
