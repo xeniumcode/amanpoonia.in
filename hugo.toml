@@ -13,14 +13,19 @@ theme = 'dark-forest'
 [[params.social]]
   name = 'GitHub'
   url = 'https://github.com/xeniumcode'
+  target = '_blank'
+  rel = 'noopener noreferrer'
 
 [[params.social]]
   name = 'LinkedIn'
   url = 'https://linkedin.com/in/aman-poonia'
+  target = '_blank'
+  rel = 'noopener noreferrer'
 
 [[params.social]]
   name = 'Email'
-  url = 'mailto:contact@amanpooni.in'
+  url = 'mailto:contact@amanpoonia.in'
+  target = '_blank'
 
 [menu]
   [[menu.main]]
